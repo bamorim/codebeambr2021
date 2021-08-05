@@ -1,0 +1,2 @@
+#!/bin/env elixir
+Code.require_file("boot.exs")
